@@ -1,0 +1,8 @@
+{
+  "name": "ppcompress",
+  "version": "0.0.1",
+  "bin": {
+    "ppcompress": "./bin/ppcompress"
+  },
+  "private": true
+}
