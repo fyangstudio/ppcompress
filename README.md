@@ -1,8 +1,10 @@
+ppcompress-css 是一款压缩css的压缩工具
 
 安装：
+```
 $npm pack ppcompress
 $npm install -g ppcompress
-
+```
 使用：
 
 未全局安装下：
